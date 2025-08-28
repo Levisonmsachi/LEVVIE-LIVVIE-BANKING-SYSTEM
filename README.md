@@ -54,9 +54,6 @@ Logout
 
 Your account balance is: $1500.00
 
-yaml
-Copy code
-
 
 ---
 
