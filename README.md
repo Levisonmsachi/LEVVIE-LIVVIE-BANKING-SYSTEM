@@ -57,7 +57,6 @@ Your account balance is: $1500.00
 yaml
 Copy code
 
-> The UI is designed to be **minimalist, professional, and futuristic**, with clear prompts and feedback.
 
 ---
 
